@@ -9,7 +9,7 @@ const config = {
     devNumber:  "4917672339436",
 
     sessions:   "sessions",
-    botNumber:  "", // رقم البوت هنا ضروري 
+    botNumber:  "212723811992", // رقم البوت هنا ضروري 
 
 
     owner: [
