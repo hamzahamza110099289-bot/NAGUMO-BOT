@@ -2,18 +2,18 @@
 
 const config = {
 
-    botName:    "𝐂𝐇𝐄𝐎𝐍 𝐁𝐎𝐓",
+    botName:    "JOY BOY BOT",
     botTag:     "@CHEON",
     botVersion: "2.0.0",
-    botDev:     "𝐋𝐎𝐘𝐃",
-    devNumber:  "4917672339436",
+    botDev:     "JOY BOY",
+    devNumber:  "212625654754",
 
     sessions:   "sessions",
     botNumber:  "212723811992", // رقم البوت هنا ضروري 
 
 
     owner: [
-        "4917672339436", //رقم المطور
+        "212625654754", //رقم المطور
     ],
 
     ownerLid: [],
@@ -24,8 +24,8 @@ const config = {
 
     
     ch: {
-        main:    "120363402804601196@newsletter",
-        second:  "120363377374711810@newsletter", // خلهم مش هيفيدوك🐦
+        main:    "",
+        second:  "", // خلهم مش هيفيدوك🐦
     },
 
    
@@ -45,11 +45,11 @@ const config = {
     },
 
     links: {
-        channel: "https://whatsapp.com/channel/0029Vb6kG3s0AgW2lYD8ad1L",
-        group:   "https://chat.whatsapp.com/DSktEHhJ1c0Bn5zjVC4eBO?mode=gi_t",
-        support: "https://chat.whatsapp.com/KkuYNJrg3qv1JslwoFOTUt?mode=gi_t",
-        github:  "https://github.com/Loydsumer/baileys-speed",
-        dev:     "https://wa.me/4917672339436",
+        channel: "",
+        group:   "",
+        support: "",
+        github:  "",
+        dev:     "",
     },
 
     images: {
